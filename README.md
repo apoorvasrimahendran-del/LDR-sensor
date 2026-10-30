@@ -13,10 +13,10 @@ This is a simple Arduino project using an LDR (Light Dependent Resistor) to dete
 3. The reading is compared with a predefined threshold.
 4. Based on the reading, it prints BRIGHT or DARK on the Serial Monitor.
 # Project Output
-
+![LDR Sensor Output](./ldrsensor.jpeg)
 
 # Source Code
-
+[View Arduino Code](./ldrsensor.ino)
 
 # What I Learned
 
